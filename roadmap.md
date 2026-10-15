@@ -1,0 +1,3 @@
+- [ ] Keep all three USDT subscription plans visible and selectable.
+- [ ] Replace hosted subscription checkout with direct USDT network, amount, address and QR details.
+- [ ] Verify the signed-in checkout and payment status flow; real transfer requires test funds.

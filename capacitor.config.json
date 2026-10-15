@@ -1,0 +1,25 @@
+{
+  "appId": "com.njikotrade.app",
+  "appName": "NjikoTrade",
+  "webDir": ".output/public",
+  "server": {
+    "url": "https://njikotrade.com",
+    "cleartext": true,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    },
+    "AdMob": {
+      "appId": "ca-app-pub-2555056410331761~3849486299"
+    },
+    "SplashScreen": {
+      "backgroundColor": "#0b0f0d",
+      "showSpinner": false
+    }
+  }
+}
